@@ -13,7 +13,7 @@ M.format_todo = function()
         "-----------------------",
         "                       ", -- Linha 7
         "                       ", -- Linha 8 (Cursor Here)
-        "-----------------------", -- Linha 9
+        "                       ", -- Linha 9
         "",
     }
 
